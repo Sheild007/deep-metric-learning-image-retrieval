@@ -1,0 +1,11 @@
+caltech-101/
+__pycache__/*.zip
+*.zip
+*.npy
+*.zip
+*.npy
+*.pt
+*.pth
+*.pdf
+models/
+weights/
